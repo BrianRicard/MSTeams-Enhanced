@@ -1,0 +1,11 @@
+.ts-message-thread-body .message-body {
+     width: -webkit-fill-available !important;
+} 
+
+.chat-style .self .ts-message-thread-body {
+    padding-left: 4.0rem !important;
+}
+
+.chat-style .thread-body:not(.self) .ts-message-thread-body {
+    margin-right: 0rem !important; 
+}  
