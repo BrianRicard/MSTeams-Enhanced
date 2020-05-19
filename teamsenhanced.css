@@ -10,7 +10,7 @@
     margin-right: 0rem !important; 
 }  
 
-.message-pane .new-typing-indicator, .message-list-common:not(.chat-style) .middle-messages-context-stripe .ts-message-list-container, .message-list-common:not(.chat-style) .ts-add-message .ts-new-message, .message-list-common:not(.chat-style) .ts-message-list-container, .message-list-common:not(.chat-style) .ts-new-meetup-animated, .message-list-common:not(.chat-style) prompt-to-talk, .message-list-common:not(.chat-style) smart-reply .smart-replies-alignment, .message-list-common:not(.chat-style) virtual-repeat>.list-wrap>.item-wrap, .ts-add-message.is-not-chat .ts-new-message
+.message-pane .new-typing-indicator, .message-list-common .middle-messages-context-stripe .ts-message-list-container, .message-list-common .ts-add-message .ts-new-message, .message-list-common .ts-message-list-container, .message-list-common .ts-new-meetup-animated, .message-list-common prompt-to-talk, .message-list-common smart-reply .smart-replies-alignment, .message-list-common virtual-repeat>.list-wrap>.item-wrap, .ts-add-message.is-not-chat .ts-new-message
 {
 	max-width: 400rem !important;
 }
