@@ -14,3 +14,24 @@
 {
 	max-width: 400rem !important;
 }
+
+/* Reply message button: Removes background and border */
+.ts-reply-message .icons-reply.ts-sym
+{
+	background: 0% !important;
+	border: none !important;
+}
+
+/* Reply message button: Moves reply button up and to the right */
+reply-message button[data-tid="replyMessageButtonShort"]
+{
+    margin-top: -28px !important;
+    float: right !important;
+	width: fit-content !important;
+}
+
+/* Reply message button: Removes 'Reply' text */
+reply-message button[data-tid="replyMessageButtonShort"] span
+{
+	display: none !important;
+}
